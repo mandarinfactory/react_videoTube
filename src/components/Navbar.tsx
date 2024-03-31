@@ -13,7 +13,7 @@ import Dictaphone from "./Dictaphone";
 import { UseDarkmode, useDarkmode } from "../hooks/useDarkmode";
 
 const Navbar: React.FC = () => {
-  const [darkmodeSelector, onToggleDarkMode]:UseDarkmode = useDarkmode();
+  const darkmodeSelector:UseDarkmode = useDarkmode();
   const dispatch = useDispatch();
 
   const getInputValue = (value: React.KeyboardEvent<HTMLInputElement>) => {
