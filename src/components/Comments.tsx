@@ -23,7 +23,7 @@ const Comments: React.FC = () => {
   }, [dispatch, videoId]);
 
   return (
-    <div className="w-[75%] h-auto">
+    <div className="w-[75%] sm:w-full h-auto">
       {commentSelector?.comments?.items?.map((value, index: number) => (
         <div className="flex my-7" key={index}>
           <img
