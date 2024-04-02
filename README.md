@@ -28,6 +28,6 @@ https://react-videot.web.app/
 - 동영상 키워드 검색 후 엔터키를 누르면 검색결과가 나오게 했습니다.
 - 마찬가지로 검색결과를 누르면 동영상 재생 및 동영상 관련 정보 그리고 관련된 동영상 추천까지 나오게 구현했습니다.
 
-### 음성검색 및 다크모드 구현 - <a href="https://github.com/mandarinfactory/react_movieSearch/wiki/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5(%EC%98%81%ED%99%94%ED%81%90%EB%A0%88%EC%9D%B4%EC%85%98)">위키</a>
+### 음성검색 및 다크모드 구현 - <a href="https://github.com/mandarinfactory/react_videoTube/wiki/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5(%EC%9D%8C%EC%84%B1%EA%B2%80%EC%83%89,-%EB%8B%A4%ED%81%AC%EB%AA%A8%EB%93%9C)">위키</a>
 - web speech API를 이용해 음성검색을 구현했습니다.
 - 다크모드는 따로 useDarkmode라는 커스텀hook을 만들어서 구현했습니다.
