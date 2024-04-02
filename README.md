@@ -22,7 +22,7 @@ https://react-videot.web.app/
 ## 📌주요 기능
 ### 실제 Youtube의 동영상 data를 가져와서 구현 - <a href="https://github.com/mandarinfactory/react_movieSearch/wiki/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5(%EB%B0%95%EC%8A%A4%EC%98%A4%ED%94%BC%EC%8A%A4,--%EC%83%81%EC%98%81%EC%98%88%EC%A0%95%EC%9E%91)">위키</a>
 - 실제 Youtube처럼 검색, 사이드바를 만들었고 각각의 키워드에 따라 클릭시 검색결과가 나오게 구현했습니다.
-- 각각 해당 썸네잉을 클릭하면 해당 동영상이 자동재생 및 정보 그리고 관련된 동영상 추천이 나오게 구현했습니다.
+- 각각 해당 썸네일을 클릭하면 해당 동영상이 자동재생 및 정보 그리고 관련된 동영상 추천이 나오게 구현했습니다.
 
 ### 동영상 검색칸 - <a href="https://github.com/mandarinfactory/react_movieSearch/wiki/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5(%EC%98%81%ED%99%94%EA%B2%80%EC%83%89)">위키</a>
 - 동영상 키워드 검색 후 엔터키를 누르면 검색결과가 나오게 했습니다.
